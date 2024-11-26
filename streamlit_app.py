@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("menghitung tabung :blue[volume tabung] :sunglasses:")
+st.title("_Streamlit_ is :blue[cool] :sunglasses:")
 
